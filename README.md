@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋, I'm Jon Pilarski
 
-<!--
-**jonpilarski777/jonpilarski777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### **A driven software engineer located in Chicago**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!--- 🌱 I’m currently learning Rust and Go -->
+- 📝 I enjoy writing about tech and tech-adjacent topics in my free time -> https://medium.com/@jonpilarski927
+- 💬 Ask me about React, Rails, Javascript
+- 📫 Connect with me: jonpilarski927@gmail.com
+
+
+
